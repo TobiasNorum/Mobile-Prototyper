@@ -57,6 +57,7 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -120,13 +121,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   waves:
-  - seed: 3827
+  - seed: 2314
     frequency: 1
     amplitude: 1
-  - seed: 7265
+  - seed: 7655
     frequency: 0.6
     amplitude: 2
-  - seed: 6712
+  - seed: 5464
     frequency: 0.25
     amplitude: 4
   heightMultiplier: 10
